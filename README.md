@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @walwaddan
 - 👀 I’m interested in Solving others problems. 
 - 🌱 I’m currently learning REACT.JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to use github
 - 📫 
 
 <!---
