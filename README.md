@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walwaddan
+- 👋 Hi, I’m @Mr.Tester
 - 👀 I’m interested in Solving others problems. 
 - 🌱 I’m currently learning REACT.JS
 - 💞️ I’m looking to collaborate on github
