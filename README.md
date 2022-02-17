@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr.Tester
-- 👀 I’m interested in Solving others problems. 
+- 👀 I’m interested in helping people facing problems. 
 - 🌱 I’m currently learning REACT.JS
 - 💞️ I’m looking to collaborate on github
 - 📫 I'm making some react projects.
